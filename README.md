@@ -29,17 +29,13 @@
 - Adicionar *JAVA_HOME* nas variáveis de ambiente:
 
     * Meu Computador > Botão direito: Propriedades > Configurações avançadas do sistema;
-
     * Propriedades do sistema: Aba 'Avançado' > Botão "Variáveis do ambiente";
-
     * Na área "Variáveis do sistema", clicar no botão 'Novo...';
-
     * Na janela "Nova variável de sistema", preencher o campo 'Nome da variável' com *JAVA_HOME* e o campo 'Valor da variável' com o caminho do diretório onde o Java foi instalado.
 
 - Atualizar o *PATH* das variáveis de ambiente:
 
     * Ainda na área "Variáveis do sistema", selecionar a variável "Path" > botão Editar.
-
     * Acrescentar ao final das configurações > *;%JAVA_HOME%\bin* > botão OK.
 
 - Validar a configuração das variáveis de ambiente
@@ -77,7 +73,7 @@ javac -version
     * **Aba SDK Tools**: Android Emulator | Android SDK Build-Tools | Android SDK Platform-Tools | Android SDK Tools
 - Clicar no botão OK para que o Android Studio baixe ou atualize os componentes marcados.
 
-- **DICA!** :warning: Antes de clicar no botão OK, copiar o caminho do diretório que é apresentado no campo *"Android SDK Location"*.
+- :warning: **DICA!** Antes de clicar no botão OK, copiar o caminho do diretório que é apresentado no campo *"Android SDK Location"*.
 
 
 ### 5. **Configuração das variáveis de ambiente do Android Studio**
@@ -131,7 +127,7 @@ uiautomatorviewer
 
     * Selecionar o emulador criado e clicar no botão 'Launch this AVD in the emulator'.
 
-- **DICA!** :warning: Existe uma forma mais prática de abrir o emulador sem consumir tantos recursos da máquina:
+- :warning: **DICA!** Existe uma forma mais prática de abrir o emulador sem consumir tantos recursos da máquina:
 
     * No prompt de comando acessar o seguinte diretório:
 
