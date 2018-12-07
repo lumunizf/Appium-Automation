@@ -147,7 +147,7 @@ emulator -list-avds
 emulator @Nexus_5X_API_24
 ```
 
-> O emulador deverá ser iniciado, consumindo menos recursos da máquina. :smile:
+> O emulador deverá ser iniciado, consumindo menos recursos da máquina. :simple_smile:
 
 
 ### 7. **Instalação e configuração do Appium**
