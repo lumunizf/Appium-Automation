@@ -1,10 +1,5 @@
 # Appium-Automation
 
-## Exercícios do curso:
-
- - [x] :calling: *"Testes Funcionais de aplicações Android com Appium"*
-
-
 ## Pré-Requisitos
 
  * Java instalado e configurado.
